@@ -129,9 +129,9 @@ aber, dass {% include glossary_link.html title="Tarina" %} wohl nicht ganz fair 
 
 Wir fragen nach Informationen über die Toten Drei und erzählen, dass wir im
 Auftrag von {% include glossary_link.html title="Zodge" %} kommen, aber sie lacht nur. {% include glossary_link.html title="Tarina" %} meint, eine Hand wäscht
-die Andere und sagt zuerst nur einen Namen: Rhonda Thunderbell. Unter Kapitän
-Murosko Sessprin sei sie gefahren, scheint wohl eine Art Pirat zu sein. Sagt
-uns aber nichts. Uncivil Serpent sei der Schiffsname gewesen. Sagt uns genau
+die Andere und sagt zuerst nur einen Namen: *Rhonda Thunderbell*. Unter Kapitän
+*Murosko Sessprin* sei sie gefahren, scheint wohl eine Art Pirat zu sein. Sagt
+uns aber nichts. *Uncivil Serpent* sei der Schiffsname gewesen. Sagt uns genau
 so wenig. Sie wirkt leicht enttäuscht, aber wir waren bis vor kurzem ja auch
 eher Out-of-Towners. Sie erzählt, dass das ihr Name ist. Uns wird einiges
 klar. Offensichtlich gibt es da noch offene Rechnungen mit ihrer alten Crew
@@ -145,35 +145,60 @@ ist, sollte ein Angriff in dieser Nacht stattfinden.
 Wir versuchen uns im Smalltalk, und es scheint, als sei schon der Kampf um die
 Position des Großherzogs ausgebrochen, nur knappe zwei Wochen nach seinem
 Ableben in dieser tumulten Zeit! Einige Stimmen meinen, es die beste Kandiatin
-wäre eine Frau Thalamra Vanthampur. Aber das Gespräch wird plötzlich von
+wäre eine Frau *Thalamra Vanthampur*. Aber das Gespräch wird plötzlich von
 wundersamen Elfgesang unterbrochen der in der Taverne ertönt:
 
-O sing a song of {% include glossary_link.html title="Elturel" %}
-Of water, woods, and hill
-The sun dawns on her ruddy cliffs
-And fields green and still.
-This land of long-abiding joy
-Home of the strong and brave
-Renowned by all, across the realms,
-And never once a slave.
-
-O sing a song of {% include glossary_link.html title="Elturel" %}
-When foes are at her door
-Her fields torn by cloven feet
-From some infernal shore.
-Arise the mighty {% include glossary_link.html title="Hellriders" %}
-Take up your swift, keen swords
-Then charge into the hellish fray
-And scatter devil hordes.
-
-O sing a song of {% include glossary_link.html title="Elturel" %}
-And when the night does fall
-Sleep safe beneath Companion’s light
-Until the dawn does call.
-We’re bound by mortal covenant
-That only ends with death
-And so we’ll sing of {% include glossary_link.html title="Elturel" %}
-Until our final breath.
+> O sing a song of {% include glossary_link.html title="Elturel" %}
+> 
+> Of water, woods, and hill
+> 
+> The sun dawns on her ruddy cliffs
+> 
+> And fields green and still.
+> 
+> This land of long-abiding joy
+> 
+> Home of the strong and brave
+> 
+> Renowned by all, across the realms,
+> 
+> And never once a slave.
+> 
+> <br>
+> 
+> O sing a song of {% include glossary_link.html title="Elturel" %}
+> 
+> When foes are at her door
+> 
+> Her fields torn by cloven feet
+> 
+> From some infernal shore.
+> 
+> Arise the mighty {% include glossary_link.html title="Hellriders" %}
+> 
+> Take up your swift, keen swords
+> 
+> Then charge into the hellish fray
+> 
+> And scatter devil hordes.
+> 
+> <br>
+> 
+> O sing a song of {% include glossary_link.html title="Elturel" %}
+> 
+> And when the night does fall
+> 
+> Sleep safe beneath Companion’s light
+> 
+> Until the dawn does call.
+> 
+> We’re bound by mortal covenant
+> 
+> That only ends with death
+> 
+> And so we’ll sing of {% include glossary_link.html title="Elturel" %}
+> 
+> Until our final breath.
 
 Wunderschön! Aber die anderen Anwesenden sind sehr irritiert. Wir fragen nach.
 Der Text scheint nicht der gewohnte friedliebende zu sein, sondern handelt von
@@ -182,44 +207,3 @@ Der Text scheint nicht der gewohnte friedliebende zu sein, sondern handelt von
 Die Verwirrung steht noch verlegen jedem in der Taverne ins Gesicht
 geschrieben als wir von unten Tumult vernehmen und auf einmal ein echt grober
 Kerl oben am Treppenaufgang steht und sehr wütend nach {% include glossary_link.html title="Tarina" %} ruft!
-
-<div class="infobox char">
-<h3>Vatras</h3>
-<p class="class">Waldläufer, Elf</p>
-<p>Aufgezogen von Wölfen im Wald in einer Stadt wie dieser nicht in seiner
-Heimat, doch ist es andererseits auch {% include glossary_link.html title="Waterdeep" %} und es gibt nur wenige Städte
-wie <i>diese</i>.</p>
-</div>
-
-<div class="infobox char">
-<h3>Melech</h3>
-<p class="class">Paladin, Tiefling</p>
-<p>Nicht der jüngste, doch hat er sich nun aus seinem klösterlichen Leben
-verabschiedet um das Abenteuer in der Welt zu suchen.</p>
-</div>
-
-<div class="infobox char">
-<h3>Heinrich</h3>
-<p class="class">Hexer, Mensch</p>
-<p>Ein älterer Herr, gelehrt und wissbegierig. Mal wirkt er für sein Alter
-gebrechlich und langsam, im nächsten Moment wohnt die Jugend im alternden
-Körper. Seinen Gehstock trägt er stets bei sich, doch scheint er hin und wieder
-zu vergessen, ihn zu brauchen.</p>
-</div>
-
-<div class="infobox hint">
-<h3>Trolle regenerieren</h3>
-<p>Um einem Troll endgültig den Gar aus zu machen, ist er mit Feuer oder Säure
-zu vernichten, will man ihn nicht nach kurzer Zeit erneut bekämpfen müssen.</p>
-</div>
-
-<div class="infobox quest">
-<h3>Floon Blagmaar suchen</h3>
-
-<p>Ein Mann in seinem besten Alter, mit rot-blondem Haar und prinzlichen
-Gewändern, daran nicht zu verkennen. Zuletzt gesehen im Skewered Dragon ist
-er nun vermisst.</p>
-
-<p class="reward">10 Goldene Drachen pp. sofort,<br />100 goldene Drachen pp.
-nach Erledigung des Auftrags.</p>
-</div>
