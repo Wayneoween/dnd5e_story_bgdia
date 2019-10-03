@@ -1,0 +1,5 @@
+---
+type: Gott
+...
+
+Test
