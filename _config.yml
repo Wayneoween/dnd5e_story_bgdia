@@ -1,0 +1,40 @@
+---
+title: "Baldur's Gate: Descent into Avernus"
+email: bgdia+dnd@cle.ar.it
+description: >
+  Wir spielen Dungeons and Dragons.
+baseurl: ""  # the subpath of your site, e.g. /blog
+url: 'https://bgdia.dndaux.de'
+site_lang: de
+
+# Build settings
+markdown: kramdown
+excerpt_separator: '<!-- more -->'
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+permalink: /:title/
+paginate_path: /posts/:num/
+paginate: 5
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - glossary_preproc
+  - node_modules
+  - README.md
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+collections:
+  characters:
+    output: true
+    layout: 'page'
+  glossary:
+    output: false
+  quests:
+    output: true
+    layout: 'page'
