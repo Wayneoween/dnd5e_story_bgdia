@@ -5,6 +5,23 @@
     @return $randomNum;
 }
 
+body {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../images/bg/fire_mountain.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.wrapper > h2 {
+    font-family: $title-font-family;
+    font-size: $title-font-size * 0.75;
+    color: $title-color;
+}
+
+.post-title {
+    font-family: $title-font-family;
+}
+
 .post-content > h2, .post-content > h3 {
     position: relative;
     left: -0.5em;
@@ -14,10 +31,11 @@
     border-top: none !important;
     padding-top: 2em !important;
 }
+
 /* paper like design, it's sooo 2011 */
 .post-list > li, article {
     background-image: url('/assets/paper.png');
-    background-color: #f0f0f0;
+    background-color: #FAE5D9;
     padding: 2em;
     box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), inset 0 0 50px rgba(0, 0, 0, 0.1);
     &:before, &:after {
@@ -39,10 +57,11 @@
 /* Initial */
 .with-initial .post-content > p:first-of-type:first-letter {
     font-family: $base-font-family;
-    font-size: 4em;
+    font-size: 5em;
     line-height: 1em;
     display: block;
     float: left;
+    margin-right: 10px;
 }
 
 .infobox {

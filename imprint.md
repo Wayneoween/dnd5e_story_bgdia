@@ -1,12 +1,14 @@
 ---
-layout: default
+layout: post
 title: Datenschutzerklärung
+dnd_date: ""
+date: ""
 ---
-
-<h2>Datenschutzerklärung</h2>
 
 <p> Wir nehmen den Schutz persönlicher Daten sehr ernst, weswegen wir erst gar keine
 personenbezogene Daten sammeln. </p>
+
+<br/>
 
 <h3>Datenerhebung durch Dritte</h3>
 
@@ -28,3 +30,4 @@ Siehe dazu die <a
 href="https://www.privacyshield.gov/participant?id=a2zt000000001K2AAI&status=Active">Privacy
 Shield Compliance Erklärung</a> von Github. </p>
 
+Hintergrundbilde von [MohammadHosein Mohebbi](https://unsplash.com/@mhmohebbi96?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](unsplash.com).
