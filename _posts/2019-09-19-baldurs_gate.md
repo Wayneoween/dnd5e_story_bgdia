@@ -87,7 +87,9 @@ Weiter händigt er jedem von uns eine merkwürdige Bronzeplakette in die eine
 brennende, geballte Faust gestanzt ist. Das Symbol der {% include glossary_link.html title="Flammende Faust" %}. Damit
 zeichnen wir uns wohl im Auftrag selbiger aus... Ob das so schlau ist?
 
-![{% include glossary_link.html title="Flammende Faust" %} Plakette](/images/e001/flammende_faust_plakette.jpg)
+<p align="center">
+  <img width="300" src="/images/e001/flammende_faust_plakette.jpg">
+</p>
 
 Er hört einfach nicht auf zu reden und kommt aber tatsächlich zum Punkt,
 weswegen wir eigentlich hier her bestellt wurden. Es scheint, dass in der

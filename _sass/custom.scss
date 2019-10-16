@@ -68,7 +68,7 @@ body {
     border-bottom-right-radius: 60px 5px;
     box-shadow: 0px 6px 12px $grey-color;
     padding: 1em;
-    transform: rotate(#{randomNum(-4, 4)}deg);
+    transform: rotate(3deg);
     margin: 3em;
 }
 .char {
@@ -90,8 +90,8 @@ body {
     }
 }
 .quest {
-    background: #ffff88;
-    background: linear-gradient(135deg, #ffff88 81%,#ffff88 82%,#ffff88 82%,#ffffc6 100%);
+    background: $quest-color;
+    background: linear-gradient(135deg, lighten($quest-color, 1%), lighten($quest-color, 5%), lighten($quest-color, 10%), lighten($quest-color, 20%));
     h3:before {
         content: 'Quest: ';
     }
