@@ -1,7 +1,7 @@
 ---
-title: Tarinas Leibwache
+title: Ein Quest
 status: offen
-reward: Informationen über die Toten Drei
+reward: 10 Gold
 layout: quest
 ---
 
