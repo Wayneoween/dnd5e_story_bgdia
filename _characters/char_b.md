@@ -1,9 +1,9 @@
 ---
-title: Orfea
+title: Character B
 layout: page
 ---
 
-### Tiefling Schurkin
+### Rasse Klasse
 
 Foo
 

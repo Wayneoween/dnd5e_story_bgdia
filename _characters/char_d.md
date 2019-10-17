@@ -1,9 +1,9 @@
 ---
-title: Hagen
+title: Character D
 layout: page
 ---
 
-### Echsenvolk Paladin
+### Rasse Klasse
 
 Foo
 

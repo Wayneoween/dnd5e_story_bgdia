@@ -1,9 +1,9 @@
 ---
-title: Tiny
+title: Character C
 layout: page
 ---
 
-### Firbolg Druidin
+### Rasse Klasse
 
 Foo
 

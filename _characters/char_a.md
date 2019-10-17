@@ -1,9 +1,9 @@
 ---
-title: Ehrikh
+title: Character A
 layout: page
 ---
 
-### Goblin Mönch
+### Rasse Klasse
 
 Foo
 
