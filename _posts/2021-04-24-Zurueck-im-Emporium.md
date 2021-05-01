@@ -52,8 +52,8 @@ Informationen und natürlich unsere Unterstützung. Nicht zuletzt Tonis großes
 Interesse an allen Drachen und Tiamat im Speziellen macht uns wohl zu gut
 geeigneten Spionen für Burney. Falls Toni da mitspielen will. Vielleicht ist er
 auch selbst der Champion, der Tiamat am Ende befreien wird? Ich bin mir nicht
-sicher. Burney weiß aber mehr. Ein gewisser Arkan soll ein mächtiges Artefakt
-an sich gerissen haben und möchte damit Tiamat zurück nach Toril bringen. Arkan
+sicher. Burney weiß aber mehr. Ein gewisser Arkhan soll ein mächtiges Artefakt
+an sich gerissen haben und möchte damit Tiamat zurück nach Toril bringen. Arkhan
 habe eine große Schildkröte als Begleiter, einen Tortle. Oder eine? Burney weiß
 nicht, ob es vielleicht Tonis Omi ist. Wir kehren zurück zu den Zelten,
 verabschieden uns. Das ist einiges zu Bedenken. Ich entscheide mich, den
@@ -83,7 +83,7 @@ zu einem Zelt kommen. Unter einem Baldachin und mit einem Schirm gegen das
 Wetter geschützt sitzt dort eine Frau. Sieht mehr tot als lebendig aus.
 Vermutlich untot. Auf den Fahrzeugen arbeiten ihre Gehilfen, wohl ebenfalls
 untot. Sie heißt Feonor und angeblich sei das hier ihr Land und sie wollen die
-Überreste des Sibriexhaben. Wir wollen die aber auch. Nach einiger Verhandlung
+Überreste des Sibriex haben. Wir wollen die aber auch. Nach einiger Verhandlung
 ziehen sie von dannen. Überraschend. Wir schlagen hier ein Lager auf. Bis wir
 den Dämon wiederbeleben können, sind noch einige Vorbereitungen nötig. Das wird
 uns erst morgen gelingen.
