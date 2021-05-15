@@ -120,6 +120,6 @@ wohl der Kommunikation mit anderen Teilen des Schiffs. Dadurch wird man wohl
 sie herumliegen gesehen hat. Sie braucht dafür ihr neues Wörterbuch. Ketis
 findet eine Schatulle und mit etwas Mühe auch den dazugehörigen Schlüssel. Darin
 wartet ein Vertrag - offenbar zwischen einem gewissen Sasilas und einer
-Teufelin, die wir schon getroffen haben. Lucile.
+Teufelin, die wir schon getroffen haben. Lucille.
 
 ![Sasilas](/img/posts/sasilas.png)
