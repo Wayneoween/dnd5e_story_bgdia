@@ -10,21 +10,21 @@ layout: post
 ## Fünfte Vision
 
 Das gleiche Schlachtfeld. Die Reihen der Gnolle lichten sich. Ihre Disziplin ist
-schlecht, ihre Ausbildung unzureichend und die Ausrüstung unzureichend.
-Zumindest gemessen an unserem Heer und vor allem uns. Wir scheinen eine kleine
-Spezialeinheit für die schwierigen Fälle zu sein. So ein schwieriger Fall bewegt
-sich auf uns zu. Wohl auch eine Spezialeinheit für schwierige Fälle wie uns. Aus
-der Ferne werden wir schon mit ein paar vereinzelten Pfeilen beschossen. Sicher
-um unsere Reaktion zu testen. Wir schließen die Reihen, gehen in unsere
-Positionen. Der Trupp Gnolle ist gut organisiert, nähert sich taktisch. Mehr
-Pfeile. Wir antworten, mit Pfeilen und Blitzen aus Ketis’ Händen. Schutzzauber
-werden gesprochen, Toni errichtet eine Barriere, die Gnolle zus palten und ihr
-Vorrücken zu verlangsamen. Während einige noch hinter der Wand zurückgehalten
-werden, überziehen wir die anderen mit unseren eigenen Angriffen. Ihr Anführer
-ist ein furchteinflößender Magiewirker. Es gelingt ihm, einige von uns zu
-verängstigen und aus dem Gefecht zu nehmen. Am Ende scheitert er aber doch an
-meinem Streitkolben. Nach den Verlusten in den Rängen der Gnolle und schließlich
-ihres Anführers ergreifen die letzten verbleibenden Kämpfer die Flucht.
+schlecht, ihre Ausbildung und Ausrüstung unzureichend. Zumindest gemessen an
+unserem Heer und vor allem uns. Wir scheinen eine kleine Spezialeinheit für die
+schwierigen Fälle zu sein. So ein schwieriger Fall bewegt sich auf uns zu. Wohl
+auch eine Spezialeinheit für schwierige Fälle wie uns. Aus der Ferne werden wir
+schon mit ein paar vereinzelten Pfeilen beschossen. Sicher um unsere Reaktion zu
+testen. Wir schließen die Reihen, gehen in unsere Positionen. Der Trupp Gnolle
+ist gut organisiert, nähert sich taktisch. Mehr Pfeile. Wir antworten, mit
+Pfeilen und Blitzen aus Ketis’ Händen. Schutzzauber werden gesprochen, Toni
+errichtet eine Barriere, die Gnolle zu spalten und ihr Vorrücken zu
+verlangsamen. Während einige noch hinter der Wand zurückgehalten werden,
+überziehen wir die anderen mit unseren eigenen Angriffen. Ihr Anführer ist ein
+furchteinflößender Magiewirker. Es gelingt ihm, einige von uns zu verängstigen
+und aus dem Gefecht zu nehmen. Am Ende scheitert er aber doch an meinem
+Streitkolben. Nach den Verlusten in den Rängen der Gnolle und schließlich ihres
+Anführers ergreifen die letzten verbleibenden Kämpfer die Flucht.
 
 ![Gnoll](/img/posts/gnoll.png)
 
@@ -84,8 +84,8 @@ Maggies Anweisungen. Wir sollen uns entspannen, gleich würden wir einschlafen.
 
 ## Siebte Vision - aus den Augen Lulus
 
-So ist es. Maggie erzählt noch, sie wolle die Seelenströme mit HIlfe des
-Herzsteins synchronisieren, was das auch immer heißt. DAs bedeutet wohl, dass
+So ist es. Maggie erzählt noch, sie wolle die Seelenströme mit Hilfe des
+Herzsteins synchronisieren, was das auch immer heißt. Das bedeutet wohl, dass
 wir uns wieder in Visionen wiederfinden. Wir scheinen zu fliegen, in Richtung
 einer Schlacht über eine Stadt hinweg. In der Ferne können wir ein kleines
 Gefecht erkennen, ein paar Soldaten kämpfen gegen eine kleine Einheit Gnolle.
@@ -100,9 +100,10 @@ Wir sehen Lulu, in groß. Bei uns ist diesmal auch unsere normal kleine Lulu. Ma
 sieht Zariel auf der großen Lulu sitzen. Ihnen nähert sich Yael, die sich
 erstmal vorzustellen scheint. Noch eine Stimme ertönt.
 
-Ein Yenoku sei zurückgekehrt und verwüste die Gegend der windenden Gewässer.
+Ein Yeenoghu sei zurückgekehrt und verwüste die Gegend der windenden Gewässer.
 
-Zariel meint, Chazaqiel habe alles verraten, woran sie glauben. Man könne ihr nicht folgen - das würde Eidbruch bedeuten.
+Zariel meint, Chazaqiel habe alles verraten, woran sie glauben. Man könne ihr nicht
+folgen - das würde Eidbruch bedeuten.
 
 Zariel ruft ihre Mitstreiter zur Rettung Yaels auf.
 
