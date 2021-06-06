@@ -11,12 +11,12 @@ layout: post
 
 Wir stehen wieder auf einem Hügel, in Avernus. Um uns herum toben Schlachten.
 Dämonen, Teufel, die Völker Torils. Neben uns spricht Zariel, hektisch. Die
-Dämonenarmee beugt sich unter Olantius’ Angriff. Haruman könnte sie mit seiner
-Streitmacht in die Zange nehmen, Yenogu besiegen. Zu unserer Rechten ertönt
+Dämonenarmee beugt sich unter Olanthius’ Angriff. Haruman könnte sie mit seiner
+Streitmacht in die Zange nehmen, Yeenoghu besiegen. Zu unserer Rechten ertönt
 eine Trompete, ein lautes Signal. *Rückzug*. Zariel und Yael sind verwirrt. Sie
 haben nicht den Befehl gegeben, zum Rückzug zu blasen. Alle brechen hektisch
 auf, nachsehen. Eine Formation von Pegasi flankiert Zariel und Yael auf Lulu.
-Yael verlangt einen Bericht von ihren Adjutanten. Yander habe den Rückzug
+Yael verlangt einen Bericht von ihren Adjutanten. Jander habe den Rückzug
 befohlen, viele Truppenteile ziehen sich zurück. Yael entgleiten die
 Gesichtszüge, fassungslos.
 
@@ -38,7 +38,7 @@ aller möglichen Rassen. Der Sand ist rot gefärbt vom Blut. Am roten Himmel
 nähert sich eine riesige schwarze Wolke. Eine Schar Dämonen kommt schnell
 näher. Lulu und Yael sind hier allein, den Dämonen ausgeliefert. Yael zieht das
 blau leuchtende Schwert hervor. Sie bittet im Namen von Zariel, Solar von
-Velestia und in ihrem eigenen Namen die Götter um die letzte Unterstützung,
+Celestia und in ihrem eigenen Namen die Götter um die letzte Unterstützung,
 voller Verzweiflung. Das Schwert darf nicht in die Hände der Dämonen fallen.
 Vielleicht kann sie auch noch Lulu retten. Für sie selbst sieht es weniger gut
 aus. Ein kleiner, dünner Lichtstrahl bricht den roten Himmel, scheint herab auf
@@ -58,7 +58,7 @@ Aufzeichnungen. Sie scheint offenbar alles mitbekommen zu haben. Wir wussten
 bereits, was mit dem Schwert passiert sein könnte. Nun wissen wir auch, wie es
 passiert ist. Das wird noch eine große Rolle spielen. Wo es sich jedoch
 befindet, weiß auch Maggie nicht. Sie weiß dafür ein paar andere Dinge.
-Olantius hat seine Gefallenen in der Krypta der Höllenreiter begraben, gar
+Olanthius hat seine Gefallenen in der Krypta der Höllenreiter begraben, gar
 nicht weit von hier. Als er vom Verrat erfahren hat, hat er sich in das nächste
 Schwert gestürzt. In der Hölle läuft alles aber etwas anders. Er bleibt  Zariel
 verpflichtet, auch gegen seinen Willen und nach seinem Tod. Haruman hat seinen
@@ -70,7 +70,7 @@ Ehe wir aufbrechen, sprechen wir noch eine Weile mit Maggie. Den Herzstein
 dürfen wir nicht wieder mitnehmen. Es gibt auch keine weiteren Seelenmünzen.
 Toni scheint welche zu brauchen, seine Schulden zu bezahlen. Mit seinen
 waghalsigen Unterfangen bringt er uns aber eher in Gefahr. Ich bezahle seine
-Schulden. Vielleicht sind wir so ein Wenig sicherer. Während wir anderen schon
+Schulden. Vielleicht sind wir so ein wenig sicherer. Während wir anderen schon
 auf dem Weg zurück zum Fahrzeug sind, bleibt Ketis noch zurück. Sicherlich
 wegen seines Stabs, den er ertauschen will. Wir erfahren auch, dass wir in Fort
 Knucklebone nicht mehr willkommen sind, solange wir von Dämonen verfolgt
@@ -94,12 +94,15 @@ Wir fahren, soweit wir mit unserem Fahrzeug über diese Wunde in Avernus kommen,
 dann steigen wir aus, folgen der Kette. Ein Rinnsal aus Blut deutet den
 weiteren Weg. Hier hat diese Kette eine Wand eingerissen, eine Art Tunnel
 offenbart. So gelangen wir tiefer in den Hügel hinein, stoßen auf die Wände und
-Fenster der Festung. Ein Fensterbild zeigt Zariel, auf Lulu. Von weiter oben
-hören wir Geräusche, auch hier sind wir bestimmt nicht vor Dämonen, Teufeln und
-anderen Bewohnern Avernus’ sicher. Wir kämpfen uns durch ein paar Dretches und
-andere Ungeheuer, bis wir zu einer größeren Halle gelangen, wir vernehmen ein
-Wimmern. Ein Teufel hängt an eisernen Ketten, die in metallenen Köpfen wie die
-von Hyänen enden. Als wir den Raum betreten, hören ein paar Chasmen auf, ihn zu
-quälen. Stattdessen kämpfen sie nun gegen uns.
+Fenster der Festung. Ein Fensterbild zeigt Zariel, und Lulu.
+
+![Zariel und Lulu auf Glas dargestellt](/img/posts/zariel_lulu.png)
+
+Von weiter oben hören wir Geräusche, auch hier sind wir bestimmt nicht vor
+Dämonen, Teufeln und anderen Bewohnern Avernus’ sicher. Wir kämpfen uns durch
+ein paar Dretches und andere Ungeheuer, bis wir zu einer größeren Halle
+gelangen, wir vernehmen ein Wimmern. Ein Teufel hängt an eisernen Ketten, die in
+metallenen Köpfen wie die von Hyänen enden. Als wir den Raum betreten, hören ein
+paar Chasmen auf, ihn zu quälen. Stattdessen kämpfen sie nun gegen uns.
 
 ![Chasme](/img/posts/chasme.png)
