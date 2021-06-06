@@ -32,14 +32,14 @@ fliegender Dämonen hinab. Das Schlachtenglück wendet sich.
 Wir hören Maggies Stimme, körperlos, als käme sie von überall und nirgendwo
 zugleich. Irgendetwas käme auf uns zu, eine mächtige Erinnerung.
 
-Wir sehen einen großen Trupp der elturianischen Strietmacht durch das Portal
+Wir sehen einen großen Trupp der elturianischen Streitmacht durch das Portal
 fliehen, ehe es sich hinter ihnen verschließt. Überall um uns herum liegen Tote
 aller möglichen Rassen. Der Sand ist rot gefärbt vom Blut. Am roten Himmel
 nähert sich eine riesige schwarze Wolke. Eine Schar Dämonen kommt schnell
 näher. Lulu und Yael sind hier allein, den Dämonen ausgeliefert. Yael zieht das
 blau leuchtende Schwert hervor. Sie bittet im Namen von Zariel, Solar von
 Velestia und in ihrem eigenen Namen die Götter um die letzte Unterstützung,
-voller Verzweifelung. Das Schwert darf nicht in die Hände der Dämonen fallen.
+voller Verzweiflung. Das Schwert darf nicht in die Hände der Dämonen fallen.
 Vielleicht kann sie auch noch Lulu retten. Für sie selbst sieht es weniger gut
 aus. Ein kleiner, dünner Lichtstrahl bricht den roten Himmel, scheint herab auf
 Yael. Sie nickt ein letztes Mal, dankt Lulu, ehe sie das Schwert in einen Stein
