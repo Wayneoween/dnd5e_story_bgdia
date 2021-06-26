@@ -50,7 +50,7 @@ Lulu fliegt neugierig herum. Sie scheint sich hier auszukennen. Die großen
 Fenster der Kathedrale sind von bunten Bildern geziert. Alle zeigen Zariel.
 Beritten, als Engel - der Marsch der Hellrider. In Mitten von Teufeln und
 Dämonen - der Krieg um Avernus. Kniend vor einem mächtigen Teufel, eine Hand
-verloren - Zariel bei Asmodeus. 
+verloren - Zariel bei Asmodeus.
 
 ![Erstes Fenster in der Kathedrale](/img/posts/zariel_fenster1.png)
 
@@ -194,7 +194,7 @@ Wieder beide Tabaxi, einige Zeit später. Eine schon größere Veil balanciert
 soll sie dabei stützen. Veil stürzt jedoch plötzlich zu Boden. Zuerst blickt
 sie erschrocken, dann zornig. Der Anhänger um ihren Hals glitzert, auch im
 Schatten. Veil ruft etwas unverständlich und grüne Blitze schießen empor. Wave
-geht zu boden, regungslos. 
+geht zu boden, regungslos.
 
 Veil wartet in einem Zelt, scheinbar wütend. Der alte Tabaxi-Lehrmeister kommt
 herein, erzählt ihr eine Geschichte. Sie beruhigt sich langsam. Veil scheint
@@ -246,7 +246,7 @@ verlieren.
 Eine tiefe, mächtige Stimme ertönt. Sie spricht zu Grafton. Aus dem Schatten
 tritt eine Gestalt mit langen weißen Haaren, langem Bart, ohne Augen. In einer
 Hand führt sie ein Schwert, die andere Hand fehlt. Tyr, der gerechte.
-Gerechtigkeit sei ein scharfes Schwert mit zwei Schneiden - wie das von zariel.
+Gerechtigkeit sei ein scharfes Schwert mit zwei Schneiden - wie das von Zariel.
 Der Weg zur Gerechtigkeit sei schwer und für die meisten Sterblichen vielleicht
 niemals erreichbar. Er habe den Weg Graftons und seiner Verbündeten genau
 verfolgt. Dennoch sei er ein wenig überrascht. Selbst Zariel folgte einst dem
