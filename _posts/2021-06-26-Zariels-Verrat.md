@@ -70,7 +70,7 @@ Teufel. Am Ende eines Hügels, zwischen den letzten toten Teufeln, Zariel.
 Blutbefleckt. Die Teufel ziehen sich langsam zurück. Große Unruhe entsteht, als
 sich die ersten ehrfurchtsvoll zu Boden werfen. Ein hochgewachsener Teufel mit
 kastanienbrauner und roter Haut, gekleidet in schwarz-goldenen Gewändern,
-schreitet durch die verstreutn Leichen. Ashmedai, einst himmlischer Marschall
+schreitet durch die verstreuten Leichen. Ashmedai, einst himmlischer Marschall
 der Legionen des Himmels. Jetzt Teufel. Asmodeus. Seine Augen glühen, doch
 seine Stimme ist voll Eleganz und Anmut. Wo Zariels Schwert sei, will er
 wissen. Zariel wird etwas Wasser gereicht, doch sie schlägt den Kelch
@@ -87,10 +87,10 @@ ein goldener Blitz.
 
 Zariel und Yael, beide schwer geharnischt. Zariel überreicht ihr blau glühendes
 Schwert in die Hände Yaels. Yael will sich weigern, doch es ist notwendig. Sie
-nimmt das Schwert and, übernimmt die Aufgabe es zu verstecken und sicher zu
-bewahren. Mit dem Schwert wird noch mehr übergeben - ein Teil von zariel, ein
+nimmt das Schwert an, übernimmt die Aufgabe es zu verstecken und sicher zu
+bewahren. Mit dem Schwert wird noch mehr übergeben - ein Teil von Zariel, ein
 Funken, ein Splitter ihrer ewigen, himmlischen Seele. Eine Erinnerung, die war
-und die weider sein könne.
+und die wieder sein könne.
 
 
 ## Zurück in der Zitadelle
@@ -124,19 +124,19 @@ immer einen Pakt mit ihm, Zariel das Handwerk legen zu müssen. Doch der bindet
 nur uns. Bel hat die Hände voll zu tun, seit Gargauth wieder frei ist.
 
 Wir machen uns wieder auf den Weg. Ehe wir losfahren können, geht plötzlich
-Veil zu Boden. Ihr Amulett ist plötzlich sehr sehr schwer. Es bewegt sich durch
+Veil zu Boden. Ihr Amulett ist plötzlich sehr, sehr schwer. Es bewegt sich durch
 den Sand, gräbt sich ein. Uns gelingt es nicht, sie davon zu befreien. Das
 Amulett zerrt an ihr, als wolle es ihr einen Weg weisen. Folgt sie diesem Weg,
 beginnt es zu glitzern. Wir steigen zurück in unser Fahrzeug, folgen etwas dem
 uns gedeuteten Weg. Veil wirkt währenddessen in einen Brief vertieft, den sie
 schon vor längerer Zeit noch im wandernden Emporium zugestellt bekommen
-hat.Viel erzählt sie davon nicht. Vielleicht führe uns das Amulett zu
+hat. Viel erzählt sie davon nicht. Vielleicht führe uns das Amulett zu
 Kostchtchie, dem Dämonenfürsten. Jedenfalls sei es wichtig, dem Amulett zu
 folgen.
 
 Wir fahren um die das Heereslager von Bels Armee herum. Ketis nimmt einen
 kleinen Umweg, um Lucile nicht zu begegnen. Der Weg um den See von Schlacke aus
-Bels Schmieede und seine Armee herum führt uns schließlich zu einer Schlucht.
+Bels Schmiede und seine Armee herumführt uns schließlich zu einer Schlucht.
 Hier müssen wir hinab, wenn wir weiter dem Amulett folgen wollen. Wir werfen
 einen Stein die Schlucht hinab, in ein dunkles Loch. Wir hören den Stein nicht
 am Boden aufprallen. Gut, dass wir den Stein zuvor mit magischem Licht erhellt
