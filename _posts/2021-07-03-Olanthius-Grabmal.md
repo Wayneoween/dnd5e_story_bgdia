@@ -49,11 +49,10 @@ Erholung nötig. Unsere Karte von Avernus spricht. Selten hat sie hilfreiches
 beizutragen. Diesmal jedoch scheint sie etwas Weisheit kund zu tun. Zariels
 gefallene Kameraden können nicht zur Ruhe kommen. Niemand könne das hier.
 Vielleicht sollten wir uns an diese wenden, wenn wir weitere Unterstützung für
-die Konfrontation mit Zariel brauchen. Die Karte führt uns zurück zur langen
-Allee mit Bäumen. An deren Ende, oben auf einem Hügel, finden wir Grabsteine,
-versteinerte Gestalten um einen Monolithen und die Spuren von Hufen und
-Kutschen. Die SPuren führen uns vor Statuen. Wir haben ein Grabmal gefunden.
-Überall die alten Wappen Elturels - Olanthius’ letzte Ruhestätte.
+die Konfrontation mit Zariel brauchen. Die Karte führt uns einen weiten Weg zu
+grauen Hügeln. Dort finden wir Grabsteine, versteinerte Gestalten um einen
+Monolithen und die Spuren von Hufen und Kutschen. Überall die alten Wappen
+Elturels - Olanthius’ letzte Ruhestätte.
 
 Eine Treppe führt hinab in das Grabmal. Zwei schwere Türen verwehren den Zugang.
 Auf ihnen ist ein Ritter abgebildet, mit einem Langschwert; ein Teufel. Innen
