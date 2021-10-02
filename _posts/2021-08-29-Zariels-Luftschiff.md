@@ -14,7 +14,7 @@ meine Ausrüstung vor, putze die Stiefel, prüfe alle Schnallen und Ösen der
 Rüstung. Die Gewohnheit macht sich bewährt. Mit dieser Routine kehrt auch etwas
 Ruhe ein, über die weiteren Pläne nachzudenken. Wir haben Haruman vernichtet,
 wir hatten eine Audienz bei Tiamat, wir planen mit der Hilfe von Olanthius, von
-Koschichi, vielleicht auch von Ralzala. Bel wird nicht an unserer Seite kämpfen.
+Kostchtchie, vielleicht auch von Ralzala. Bel wird nicht an unserer Seite kämpfen.
 Lulu ist bei uns. Das macht die Sache komplizierter. Ziehen wir los, ihre
 Freundin Zariel zu vernichten? Unser Vertrag mit Bel fordert zumindest, ihr das
 Handwerk zu legen. Was passiert, wenn wir Zariel vernichten? Befreien wir damit
@@ -79,11 +79,15 @@ etwas an einen Engel, doch mehr noch ist sie nun ein Teufel. Um ihr Haupt rankt
 ein Schein aus Höllenfeuer. Ihre Hand fehlt noch immer. An deren Stelle trägt
 sie eine Kette mit einem Morgenstern am Ende. Neben ihrem Thron ruht der Hammer,
 von dem große Kälte ausgeht. Als sie uns erblickt, erhebt sie sich von ihrem
-Thron, entfaltet ihre schwarzen Schwingen, kommt auf uns zu. Die Teufel greifen
-nach ihren Waffen. Wir schwärmen etwas aus, versuchen einen starken Auftritt zu
-präsentieren. Ich entfalte meine eigenen Flügel, präsentiere das hell leuchtende
-Schwert, was einst Zariel selbst gehört hat. Lulu ist an unserer Seite, ebenso
-Olanhtius. Hinter dem Thron erscheint {% include glossary_link.html title="Thavius Kreeg" %}, in seiner hässlichen Form
+Thron, entfaltet ihre schwarzen Schwingen, kommt auf uns zu.
+
+![Zariel](/img/posts/zariel_archdevil.jpg)
+
+Die Teufel greifen nach ihren Waffen. Wir schwärmen etwas aus, versuchen einen
+starken Auftritt zu präsentieren. Ich entfalte meine eigenen Flügel,
+präsentiere das hell leuchtende Schwert, was einst Zariel selbst gehört hat.
+Lulu ist an unserer Seite, ebenso Olanthius. Hinter dem Thron erscheint
+{% include glossary_link.html title="Thavius Kreeg" %}, in seiner hässlichen Form
 eines Teufels. Er zieht einen schwarzen Tabaxi hinter dem Thron hervor,
 gefesselt. Er wirft Gale auf den Boden vor dem Thron.
 
@@ -91,7 +95,7 @@ Zariel nähert sich weiter. Ich spüre, wie sie auf das Schwert zugeht und das
 Schwert von ihr angezogen wird. Mit starker Hand behalte ich es aber bei mir.
 Dem mächtigen Teufel noch ein mächtiges Schwert zu bringen wäre das letzte, was
 uns nun weiter hilft. Vorerst. So bedrohlich unsere Ankunft hier für beide
-Seiten auch war - nun stehen alle still. Wir verhandeln mit Zariel. 
+Seiten auch war - nun stehen alle still. Wir verhandeln mit Zariel.
 
 Sie will das Schwert, doch ich bin nicht bereit, es einem bösen Teufel
 auszuhändigen. Sie hat angeblich nicht damit zu tun, dass Städte wie {% include glossary_link.html title="Elturel" %} in
