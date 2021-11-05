@@ -3,8 +3,8 @@ subtitle:    'DnD AUX'
 text_title:  'D&D AUX'
 email:       dnd@cle.ar.it
 baseurl:     "" # the subpath of your site, e.g. /blog
-url:         "https://dndaux.de" # the base hostname & protocol for your site, e.g. http://example.comemail:              your-email@example.com
-author:      heinlef / ichaelus / kratob / wayneoween
+url:         "https://bgdia.dndaux.de" # the base hostname & protocol for your site, e.g. http://example.comemail:              your-email@example.com
+author:      heinlef / ichaelus / kraatob / wayneoween
 
 # Social Profiles
 twitter_username: Wayneoween
