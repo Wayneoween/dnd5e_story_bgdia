@@ -1,4 +1,5 @@
 ---
+date: 2021-07-03 00:00:00
 title: Olanthius' Grabmal
 excerpt: Mumien und Geheimnisse
 author: Grafton Clarke

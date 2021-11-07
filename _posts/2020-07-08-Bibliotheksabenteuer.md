@@ -1,4 +1,5 @@
 ---
+date: 2020-07-08 00:00:00
 title: Bibliotheksabenteuer
 excerpt: Spuk in den Hallen, Besprechungen
 dr_date: 26. Flamerule 1494

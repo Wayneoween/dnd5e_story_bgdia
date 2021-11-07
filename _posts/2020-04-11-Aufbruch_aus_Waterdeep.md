@@ -1,4 +1,5 @@
 ---
+date: 2020-04-11 00:00:00
 layout: post
 title: Aufbruch aus Waterdeep
 author: Grafton Clarke

@@ -1,4 +1,5 @@
 ---
+date: 2020-07-05 00:00:00
 title: Erkenntnisse
 excerpt: Wenn wir schon mal in der größten Bibliothek der Schwertküste sind
 dr_date: 25. Flamerule 1494

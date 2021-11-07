@@ -1,4 +1,5 @@
 ---
+date: 2020-10-03 00:00:00
 title: Ab mit dem Helm!
 excerpt: Mit der Hilfe Torms, Pherrias und Veils
 author: Grafton Clarke

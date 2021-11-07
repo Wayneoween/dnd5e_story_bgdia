@@ -1,4 +1,5 @@
 ---
+date: 2020-07-26 00:00:00
 title: Aufbruch nach Avernus
 excerpt: Durch die Portale
 dr_date: 26. Flamerule 1494

@@ -1,4 +1,5 @@
 ---
+date: 2020-06-28 00:00:00
 title: Candlekeep
 excerpt: Auf der Suche nach Antworten und Weisheit
 dr_date: 24. Flamerule 1494

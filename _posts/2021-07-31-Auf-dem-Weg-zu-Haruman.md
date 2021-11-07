@@ -1,4 +1,5 @@
 ---
+date: 2021-07-31 00:00:00
 title: Auf dem Weg zu Haruman
 excerpt: Keine Titanen, Abishai und ein Vampir
 author: Grafton Clarke

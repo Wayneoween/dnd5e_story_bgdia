@@ -1,4 +1,5 @@
 ---
+date: 2020-09-27 00:00:00
 title: Visionen und Entdeckungen
 excerpt: Neue Bekanntschaften
 author: Grafton Clarke

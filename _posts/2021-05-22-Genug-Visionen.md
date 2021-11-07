@@ -1,4 +1,5 @@
 ---
+date: 2021-05-22 00:00:00
 title: Genug Visionen
 excerpt: Schlachten in Avernus
 author: Grafton Clarke

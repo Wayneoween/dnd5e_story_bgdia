@@ -1,4 +1,5 @@
 ---
+date: 2020-11-28 00:00:00
 title: Der Dämonenschreck
 excerpt: Wir befreien mehr als uns lieb ist
 author: Grafton Clarke

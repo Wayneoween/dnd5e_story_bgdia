@@ -1,4 +1,5 @@
 ---
+date: 2021-06-19 00:00:00
 title: Das Schwert Zariels
 excerpt: Eingebungen
 author: Grafton Clarke

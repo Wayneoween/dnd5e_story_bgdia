@@ -1,4 +1,5 @@
 ---
+date: 2021-02-20 00:00:00
 title: Die Bathysphäre
 excerpt: und die Reise über den Styx
 author: Grafton Clarke

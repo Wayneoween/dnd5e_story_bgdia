@@ -1,4 +1,5 @@
 ---
+date: 2021-01-02 00:00:00
 title: Reparaturen
 excerpt: Zurück im wandernden Emporium
 author: Grafton Clarke

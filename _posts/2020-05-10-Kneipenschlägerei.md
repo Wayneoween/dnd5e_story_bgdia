@@ -1,4 +1,5 @@
 ---
+date: 2020-05-10 00:00:00
 layout: post
 title: Kneipenschlägerei
 excerpt: Beschaffung von Beweismitteln

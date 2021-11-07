@@ -1,4 +1,5 @@
 ---
+date: 2020-06-20 00:00:00
 layout: post
 title: Baldur's Gate verlassen
 author: Grafton Clarke

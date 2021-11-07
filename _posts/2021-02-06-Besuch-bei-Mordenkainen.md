@@ -1,4 +1,5 @@
 ---
+date: 2021-02-06 00:00:00
 title: Besuch bei Mordenkainen
 excerpt: und die Reise zum Styx
 author: Grafton Clarke

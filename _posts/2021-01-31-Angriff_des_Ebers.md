@@ -1,4 +1,5 @@
 ---
+date: 2021-01-31 00:00:00
 title: Angriff des Ebers
 excerpt: Zurück nach Fort Knucklebone
 author: Grafton Clarke

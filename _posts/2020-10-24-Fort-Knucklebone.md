@@ -1,4 +1,5 @@
 ---
+date: 2020-10-24 00:00:00
 title: Fort Knucklebone
 excerpt: Hier gilt das Gesetz von Mad Maggie
 author: Grafton Clarke

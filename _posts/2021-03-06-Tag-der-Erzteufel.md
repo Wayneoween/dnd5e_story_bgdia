@@ -1,4 +1,5 @@
 ---
+date: 2021-03-06 00:00:00
 title: Tag der Erzteufel
 excerpt: Auf der anderen Seite des Styx. Und des Spiegels.
 author: Grafton Clarke

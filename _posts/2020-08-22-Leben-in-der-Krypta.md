@@ -1,4 +1,5 @@
 ---
+date: 2020-08-22 00:00:00
 title: Das Leben in der Krypta
 excerpt: Moral und andere Aufträge
 author: Grafton Clarke

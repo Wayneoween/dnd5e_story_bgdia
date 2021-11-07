@@ -1,4 +1,5 @@
 ---
+date: 2021-05-15 00:00:00
 title: Mehr Visionen
 excerpt: Lulu und Zariel
 author: Grafton Clarke

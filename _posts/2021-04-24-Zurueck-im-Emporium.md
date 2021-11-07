@@ -1,4 +1,5 @@
 ---
+date: 2021-04-24 00:00:00
 title: Zurück im wandernden Emporium
 excerpt: Offenbarungen der Drachen-Art
 author: Grafton Clarke

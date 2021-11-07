@@ -1,4 +1,5 @@
 ---
+date: 2021-08-29 00:00:00
 title: Zariels Luftschiff
 excerpt: Aufbruch, Verhandlungen, Überraschungen
 author: Grafton Clarke

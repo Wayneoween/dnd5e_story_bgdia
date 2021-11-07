@@ -1,4 +1,5 @@
 ---
+date: 2020-12-19 00:00:00
 title: Das wandernde Emporium
 excerpt: Unerwartetes Wiedersehen
 author: Grafton Clarke

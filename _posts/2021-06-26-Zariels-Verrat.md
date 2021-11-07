@@ -1,4 +1,5 @@
 ---
+date: 2021-06-26 00:00:00
 title: Der Verrat Zariels
 excerpt: Mehr Eingebungen
 author: Grafton Clarke

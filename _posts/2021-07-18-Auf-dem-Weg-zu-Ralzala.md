@@ -1,4 +1,5 @@
 ---
+date: 2021-07-18 00:00:00
 title: Auf dem Weg zu Ralzala
 excerpt: Mumien, Titanen und ein Rakshasa
 author: Grafton Clarke
